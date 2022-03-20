@@ -5,9 +5,9 @@
 
 <h2> Skills  </h2>
 
-> Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using **Python**.
+> **Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using** **Python**.
 
-> **Python** Libraries : **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Plotly** and **Scikit Learn**
+> **Python** **Libraries** : **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Plotly** and **Scikit Learn**
 
 > **Business Intelligence Tools** : **Microsoft Power BI**  and **Tableau**
 
