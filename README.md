@@ -1,18 +1,19 @@
 <h2>About Me</h2>
 
- -  Hello, I'm [Laxman Parab](https://www.linkedin.com/in/laxmanparab25/) !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-- A Data Analyst who loves to analyze data and discover useful insights from it.
+-  Hello, I'm [Laxman Parab](https://www.linkedin.com/in/laxmanparab25/) !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+- Data Analyst who loves to analyze data and discover useful insights from it.
 
 <h2> Skills  </h2>
 
 > Exploratory Data Analysis, Data Cleaning, Data Preprocessing and Data Visualization using **Python**.
 
-> **Python** Libraries : **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Plotly** and **Scikit Learn**
+> **Python** Libraries : **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Plotly** and **Scikit Learn**
 
-> **Business Intelligence Tools** : **Microsoft Power BI**  and **Google Data Studio**
+> **Business Intelligence Tools** : **Microsoft Power BI**  and **Tableau**
 
->Database Tools : **Microsoft SQL Server** and  **MySQL Server**  
+> **Database Tools** : **Microsoft SQL Server** and  **MySQL Server**  
 
+> **Excel Analytics** : **Data Validation**, **VLOOKUP**, **Pivot Tables** and **Charts**
 
 <h2> Connect With Me </h2>
 <p>
