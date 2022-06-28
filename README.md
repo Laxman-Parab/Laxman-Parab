@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
--  Hello, I'm [Laxman Parab](https://www.linkedin.com/in/laxmanparab25/) !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+-  Hello, I'm [Laxman Parab](https://www.linkedin.com/in/laxmanparab25/)
 - Data Analyst who loves to analyze data and discover useful insights from it.
 
 <h2> Skills  </h2>
