@@ -1,7 +1,8 @@
 <h2>About Me</h2>
 
 -  Hello, I'm [Laxman Parab](https://www.linkedin.com/in/laxmanparab25/)
-- Data Analyst who loves to analyze data and discover useful insights from it.
+-  I'm currently working as a Data Scientist at [Jio Platforms Limited](https://www.linkedin.com/company/jioplatforms).
+
 
 <h2> Skills  </h2>
 
