@@ -25,7 +25,7 @@
 <a href="https://twitter.com/lakshofficial2" target="_blank">
   <img align="center" width="26px" src="https://brandpalettes.com/wp-content/uploads/2018/02/twitter_logo.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/laksh._.official2/" target="_blank">
+<a href="https://www.instagram.com/laksh._.official/" target="_blank">
   <img align="center" width="26px" src="https://brandpalettes.com/wp-content/uploads/2018/10/Instagram.png" />
  </a> &nbsp;&nbsp;
   <a href="https://laxmanparab7.wixsite.com/laksh" target="_blank">
